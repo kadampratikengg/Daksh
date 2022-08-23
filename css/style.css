@@ -64,8 +64,6 @@ a:focus {
   border: none;
 }
 
-.navbar {
-}
 
 .nav-link:hover {
   color: #fefefe;
@@ -202,8 +200,7 @@ a:focus {
 /* end slider section */
 
 /* welcome section */
-.welcome_section {
-}
+
 
 .welcome_section .col-md-6 {
   padding: 0 4%;
@@ -352,8 +349,7 @@ a:focus {
 /* end service section */
 
 /* security section */
-.security_section {
-}
+
 
 .security_section h2 {
   text-transform: uppercase;
@@ -537,12 +533,30 @@ a:focus {
 }
 
 .contact_form-container .contact_box {
-  background-color: #fff;
-  padding: 35px 40px;
-  width: 50%;
-  height: 60%;
-  margin: 100px 50px;
+    margin: 120px 50px;
 }
+
+.btn{
+  
+  background-color: #1c87c9;
+  -webkit-border-radius: 60px;
+  border-radius: 60px;
+  border: none;
+  color: #eeeeee;
+  cursor: pointer;
+  display: inline-block;
+  font-family: sans-serif;
+  font-size: 20px;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background-color: #008CBA;
+  color: white;
+}
+
 
 .contact_form-container form input,
 .contact_form-container form input:focus,
@@ -633,10 +647,11 @@ a:focus {
   justify-content: space-between;
 }
 
-.info_section .news_container .social_container > div {
-}
 
 /* end info section */
+
+
+
 
 /* footer section*/
 
