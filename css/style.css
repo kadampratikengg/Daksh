@@ -671,4 +671,15 @@ a:focus {
   color: #fff;
 }
 
+h1{
+  animation:blinkingText 0.5s infinite;
+}
+@keyframes blinkingText{
+  0%{     color: red;    }
+  40%{    color: ornage; }
+  60%{    color: pink; }
+  90%{    color:transparent;  }
+  100%{   color: green;    }
+}
+
 /* end footer section*/
