@@ -165,7 +165,7 @@ a:focus {
 }
 
 .slider_section .slider_box .slider-detail {
-  color: #fff;
+  color: #043835;
   width: 60%;
   margin-top: 14%;
   margin-left: 20%;
@@ -183,7 +183,7 @@ a:focus {
 
 .slider_section .slider_box .slider-detail .slider_detail-text {
   width: 55%;
-  color: #f8fafd;
+  color: #043835;
 }
 
 .slider_section .slider_box .slider-detail .slider_detail-btn {
@@ -194,7 +194,7 @@ a:focus {
   margin-top: 28px;
   padding: 16px 20px;
   background-color: #2561db;
-  color: #fff;
+  color: #043835;
 }
 
 /* end slider section */
