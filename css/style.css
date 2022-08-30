@@ -143,8 +143,8 @@ a:focus {
 .slider_section .slider_box {
   display: flex;
   position: relative;
-  height: calc(100vh - 90px);
-  background-image: url(../images/banner.jpg);
+  height: calc(100vh - 25px);
+  background-image: url(../images/banner.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -279,6 +279,13 @@ a:focus {
   background-color: #36bb25;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 .service_section .service_img-container {
   display: flex;
   flex-wrap: wrap;
@@ -394,15 +401,15 @@ a:focus {
 }
 
 .security_section .security_img-box.i-box-1 {
-  background-image: url(../images/security-1.jpg);
+  background-image: url(../images/security-1.jpeg);
 }
 
 .security_section .security_img-box.i-box-2 {
-  background-image: url(../images/security-2.jpg);
+  background-image: url(../images/security-2.jpeg);
 }
 
 .security_section .security_img-box.i-box-3 {
-  background-image: url(../images/security-3.jpg);
+  background-image: url(../images/security-3.jpeg);
 }
 
 .security_section .security_img-box a {
